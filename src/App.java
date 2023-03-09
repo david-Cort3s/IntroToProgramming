@@ -1,5 +1,6 @@
-public class Main {
-    public static void main(String[] args) {
+public class App {
+    public static void main(String[] args) throws Exception {
+        
         conditional();
         loopWhile();
         loopDoWhile();
@@ -12,6 +13,7 @@ public class Main {
         System.out.println(myAuto.getPower());
         myAuto.setPowerOn();
         System.out.println(myAuto.getPower());
+
     }
 
     public static void conditional() {
