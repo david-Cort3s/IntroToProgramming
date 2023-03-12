@@ -1,4 +1,3 @@
-import javax.sound.midi.VoiceStatus;
 
 public class topicExercises4 {
 
