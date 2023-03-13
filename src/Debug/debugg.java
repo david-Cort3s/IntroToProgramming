@@ -1,3 +1,4 @@
+package Debug;
 public class debugg {
 
   public static void main(String[] args) {
